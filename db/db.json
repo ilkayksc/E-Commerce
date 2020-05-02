@@ -1,0 +1,190 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "price": 2500,
+      "categoryID": 1,
+      "description": "LENOVO Z50-70",
+      "url": "https://images.unsplash.com/photo-1484788984921-03950022c9ef?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1404&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Mouse",
+      "price": 2500,
+      "categoryID": 2,
+      "description": "LOGİTECH",
+      "url": "https://images.unsplash.com/photo-1554576575-a4e7b6e8409d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 3,
+      "name": "Klavye",
+      "price": 2500,
+      "categoryID": 3,
+      "description": "MİCROSOFT",
+      "url": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 4,
+      "name": "Monitor",
+      "price": 2500,
+      "categoryID": 4,
+      "description": "DELL 27 INC",
+      "url": "https://images.unsplash.com/photo-1555940280-66bf87aa823d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 5,
+      "name": "Laptop",
+      "price": 2500,
+      "categoryID": 1,
+      "description": "LENOVO Z50-70",
+      "url": "https://images.unsplash.com/photo-1515343480029-43cdfe6b6aae?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "id": 6,
+      "name": "Mouse",
+      "price": 2500,
+      "categoryID": 2,
+      "description": "LOGİTECH",
+      "url": "https://images.unsplash.com/photo-1554576575-a4e7b6e8409d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 7,
+      "name": "Klavye",
+      "price": 2500,
+      "categoryID": 3,
+      "description": "MİCROSOFT",
+      "url": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 8,
+      "name": "Monitor",
+      "price": 2500,
+      "categoryID": 4,
+      "description": "DELL 27 INC",
+      "url": "https://images.unsplash.com/photo-1555940280-66bf87aa823d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 9,
+      "name": "Laptop",
+      "price": 2500,
+      "categoryID": 1,
+      "description": "LENOVO Z50-70",
+      "url": "https://images.unsplash.com/photo-1484788984921-03950022c9ef?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1404&q=80"
+    },
+    {
+      "id": 10,
+      "name": "Mouse",
+      "price": 2500,
+      "categoryID": 2,
+      "description": "LOGİTECH",
+      "url": "https://images.unsplash.com/photo-1554576575-a4e7b6e8409d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 11,
+      "name": "Klavye",
+      "price": 2500,
+      "categoryID": 3,
+      "description": "MİCROSOFT",
+      "url": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 12,
+      "name": "Monitor",
+      "price": 2500,
+      "categoryID": 4,
+      "description": "DELL 27 INC",
+      "url": "https://images.unsplash.com/photo-1555940280-66bf87aa823d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 13,
+      "name": "Laptop",
+      "price": 2500,
+      "categoryID": 1,
+      "description": "LENOVO Z50-70",
+      "url": "https://images.unsplash.com/photo-1484788984921-03950022c9ef?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1404&q=80"
+    },
+    {
+      "id": 14,
+      "name": "Mouse",
+      "price": 2500,
+      "categoryID": 2,
+      "description": "LOGİTECH",
+      "url": "https://images.unsplash.com/photo-1554576575-a4e7b6e8409d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 15,
+      "name": "Klavye",
+      "price": 2500,
+      "categoryID": 3,
+      "description": "MİCROSOFT",
+      "url": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 16,
+      "name": "Monitor",
+      "price": 2500,
+      "categoryID": 4,
+      "description": "DELL 27 INC",
+      "url": "https://images.unsplash.com/photo-1555940280-66bf87aa823d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 18,
+      "name": "Microsoft Blue Mouse",
+      "price": 150,
+      "categoryID": 2,
+      "description": "Mouse",
+      "url": "https://images.unsplash.com/photo-1551515300-2d3b7bb80920?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1352&q=80"
+    },
+    {
+      "name": "Kırmızı Mouse",
+      "price": "50",
+      "categoryID": "2",
+      "description": "Mouse",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHKtz0NX7NpS0vHSHYDfdIBSjqheTZ5F1FjH9YP5uOBimcqybAjA",
+      "id": 21
+    },
+    {
+      "name": "deneme ",
+      "price": "1500",
+      "categoryID": "1",
+      "description": "deneme",
+      "url": "https://images.unsplash.com/photo-1517292987719-0369a794ec0f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1267&q=80",
+      "id": 22
+    },
+    {
+      "name": "MacBook Pro",
+      "price": "10000",
+      "categoryID": "1",
+      "description": "Macbook",
+      "url": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mbp13touch-space-select-201807_GEO_TR?wid=892&hei=820&&qlt=80&.v=1539892087561",
+      "id": 23
+    },
+    {
+      "name": "Test Ürünü",
+      "price": 5000,
+      "categoryID": "3",
+      "description": "Bu Bir Test Kaydıdır",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT7bwnRCtAiQ7jBIs3jeovrWJhAm1wUJp1x_6upK6cqx1gV_QOH&usqp=CAU",
+      "id": 24
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Laptop"
+    },
+    {
+      "id": 2,
+      "name": "Mouse"
+    },
+    {
+      "id": 3,
+      "name": "Klavye"
+    },
+    {
+      "id": 4,
+      "name": "Monitor"
+    }
+  ]
+}

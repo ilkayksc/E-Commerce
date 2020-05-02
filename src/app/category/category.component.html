@@ -1,0 +1,7 @@
+<nav class="nav d-flex ">
+    <a routerLink="/products/" class="p-2 text-muted"
+   >Tüm Ürünler</a>
+<a routerLink="/products/category/{{category.id}}" class="p-2 text-muted"
+    *ngFor="let category of categories">{{category.name}}</a>
+
+</nav>

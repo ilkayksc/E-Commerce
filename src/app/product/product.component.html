@@ -1,0 +1,21 @@
+
+  <h3>{{title}}</h3>
+
+  <div class="col-md-10" style="margin-bottom: 3%;">
+      
+      <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Aramak İstediğiniz Ürünü Seçiniz." [(ngModel)]="filterText" style="margin-top: 3%">
+      <small id="emailHelp" class="form-text text-muted" *ngIf="filterText">Aranılan Kelime {{filterText}}</small>
+      
+    </div>
+  
+  <div class="row">
+      <div class="card" style="width: 18rem;margin-left: 2%;margin-bottom: 2%" *ngFor="let product of products | productFilter: filterText">
+          <img [src]="product.url" class="card-img-top" alt="..." height="200" width="300">
+          <div class="card-body">
+              <h5 class="card-title">{{product.name}} </h5>
+              <h6>{{product.price | currency:"USD"}}</h6>
+              <p class="card-text">{{product.description}}</p>
+              <button (click)="addToCart(product)" class="btn btn-primary">Sepete Ekle</button>
+          </div>
+      </div>
+  </div>
