@@ -121,6 +121,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "e-ticaret"
+    }
+  },
+  "defaultProject": "e-ticaret",
+  "cli": {
+    "analytics": "c5c6863f-bff0-4f21-b833-a3b8284fce28"
+  }
 }
